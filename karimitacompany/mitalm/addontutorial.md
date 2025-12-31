@@ -1,4 +1,4 @@
-# Mitalm Utility Addon Tutorial
+# Mitalm Utilities Addon Tutorial
 最終更新：2025-12-31
 
 ## 目次
